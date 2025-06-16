@@ -1,5 +1,5 @@
 Get the user data...
-process the data
+process the dataset
 
 create an avatar for user
 
