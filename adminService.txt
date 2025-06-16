@@ -1,9 +1,12 @@
 add and remove users
 change the roles
 manage the database
+
 closing the oracle database connection
 
 get off from bed
+
+
 git pull
 change 1
 change 2
