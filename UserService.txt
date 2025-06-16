@@ -5,4 +5,4 @@ create an avatar for user
 
 login and logout
 
-change 1 in the End database
+change 1 in the main database
